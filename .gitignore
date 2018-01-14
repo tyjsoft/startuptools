@@ -12,3 +12,7 @@ node_modules
 *.tmp
 *~
 *.bak
+
+# ES6 to ES5 (Portable JS) Babel Transcoding Destination dirs
+dist
+public/dist
